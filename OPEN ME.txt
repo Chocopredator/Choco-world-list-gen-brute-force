@@ -1,0 +1,51 @@
+
+
+══════════════════════════════════════════════════════════════════════════════════════════
+$$\    $$$$$$$\  $$$$$$$$\  $$$$$$\  $$$$$$$\        $$\      $$\ $$$$$$$$\  $$\   
+\$$\   $$  __$$\ $$  _____|$$  __$$\ $$  __$$\       $$$\    $$$ |$$  _____|$$  |
+ \$$\  $$ |  $$ |$$ |      $$ /  $$ |$$ |  $$ |      $$$$\  $$$$ |$$ |     $$  /  
+  \$$\ $$$$$$$  |$$$$$\    $$$$$$$$ |$$ |  $$ |      $$\$$\$$ $$ |$$$$$\  $$  /   
+  $$  |$$  __$$< $$  __|   $$  __$$ |$$ |  $$ |      $$ \$$$  $$ |$$  __| \$$<    
+ $$  / $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |      $$ |\$  /$$ |$$ |     \$$\  
+$$  /  $$ |  $$ |$$$$$$$$\ $$ |  $$ |$$$$$$$  |      $$ | \_/ $$ |$$$$$$$$\ \$$\ 
+\__/   \__|  \__|\________|\__|  \__|\_______/       \__|     \__|\________| \__|
+══════════════════════════════════════════════════════════════════════════════════════════
+
+THIS PYTHON FILE IS MADE BY: !              .ᶜʰᵒᶜᵒ-ᵖʳᵉᵈᵃᵗᵒʳ#1717
+
+JOIN OUR DISCORD SERVER
+
+https://discord.gg/W4RWT6SkKx
+
+THE BRUTE-FORCE IS NOW TEMPORARY OFF BUT YOU CAN USE HASH CAT OR HYDRA
+
+ON THIS FILE IT CAN HAPPEN THAT THERE IS SOME UPDATE
+
+FOR USE THIS  FILE ON KALI LINUX YOU NEED TO:
+
+Install the necessary dependencies:
+sudo apt update
+sudo apt install python3 python3-pip
+sudo pip3 install selenium colorama
+
+Download and install the Chrome WebDriver for Selenium:
+
+wget https://chromedriver.storage.googleapis.com/94.0.4606.61/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip
+sudo mv chromedriver /usr/local/bin/
+sudo chown root:root /usr/local/bin/chromedriver
+sudo chmod +x /usr/local/bin/chromedriver
+
+Open a terminal and navigate to the directory where the script is saved:
+
+cd /path/to/script/directory
+
+Run the script:
+
+python3 brute_force.py
+
+
+MENTION: WE ARE NOT RESPONSABLE FOR ALL ILLEGAL ACTIVITIES THIS PROGRAM IS EDUCATIONAL PURPOSE ONLY BUT IF YOU WANT TO RISK TO BE IN THE COURT OF LAW WE ARE NOT GONNA BE PART IN YOUR ILLEGAL ACTIVITIES
+
+
+
